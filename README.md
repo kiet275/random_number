@@ -1,2 +1,2 @@
-# random_number
-Created with CodeSandbox
+
+https://kiet275.github.io/random_number
